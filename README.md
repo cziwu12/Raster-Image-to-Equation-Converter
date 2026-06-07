@@ -1,5 +1,8 @@
 # Raster Image to Equation Converter
 A programme where it converts the uploaded image into a set of parametric mathematical equations where it could be plotted onto Desmos.
+Release link: https://github.com/cziwu12/Raster-Image-to-Equation-Converter/releases/tag/v1.0
+
+<img width="1361" height="497" alt="Screenshot 2026-06-05 013845" src="https://github.com/user-attachments/assets/898e641d-34d4-4793-b77b-d72f04372192" />
 
 ## Features
 
@@ -33,10 +36,7 @@ After that you'll be asked if you want to resize or blur your image, type ```yes
 
 Once you done both of those, there'll be some windows showing the result of the edge detection algorithm and the contours, you can close by entering any key. If you chose to resize your image the contours overlaid onto the image will be on the top left (the same thing for the graph) so you can ignore that.
 
-<p float="left">
-  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a5f7ed34-0637-4644-8057-c9e977ce7a1c" />
-  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/3f2b85b4-72e7-4eae-8d25-7a1bdbec821e" />
-</p>
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/3f2b85b4-72e7-4eae-8d25-7a1bdbec821e" />
 
 Sometimes the window might overextend to the bottom of the task bar which you can also ignore.
 
