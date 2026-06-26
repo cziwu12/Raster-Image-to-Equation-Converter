@@ -15,7 +15,7 @@ Release link: https://github.com/cziwu12/Raster-Image-to-Equation-Converter/rele
 ## Quick Start
 
 1. Download the latest release.
-2. Run main.exe.
+2. Run Raster Image to Equation Converter.exe.
 3. Paste the image path along with resize and blur options when prompted.
 4. Copy the generated equations into Desmos.
 
